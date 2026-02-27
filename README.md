@@ -12,6 +12,11 @@
 
 O **objetivo** é reduzir tarefas manuais repetitivas utilizando automação com Python.
 
+## 🎥 Demonstração do Projeto
+
+🔗 Assista ao vídeo aqui:  
+[▶ Clique para ver a demonstração](https://youtu.be/nO0ey9A5-1k)
+
 ---
 
 ## 🛠️ Funcionalidades
@@ -36,8 +41,7 @@ O **objetivo** é reduzir tarefas manuais repetitivas utilizando automação com
 ```
 📁 Automa-o-de-Sistemas-e-Processos
   ├── 📄 README.md
-  ├── 📊 projeto_automacao.ipynb
-  └── 📷 video_executando.mp4
+  └── 📊 projeto_automacao.ipynb
 ```       
 ---
 
