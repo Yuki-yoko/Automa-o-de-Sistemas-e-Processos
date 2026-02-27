@@ -39,7 +39,7 @@ O **objetivo** é reduzir tarefas manuais repetitivas utilizando automação com
   ---
   ## 📂 Estrutura do Repositório
 ```
-📁 Automa-o-de-Sistemas-e-Processos
+📁 Automacao-de-Sistemas-e-Processos
   ├── 📄 README.md
   └── 📊 projeto_automacao.ipynb
 ```       
